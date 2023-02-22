@@ -1,0 +1,8 @@
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\bin\Debug\ResiCheck.exe.config
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\bin\Debug\ResiCheck.exe
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\bin\Debug\ResiCheck.pdb
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\obj\Debug\ResiCheck.csproj.AssemblyReference.cache
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\obj\Debug\ResiCheck.csproj.SuggestedBindingRedirects.cache
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\obj\Debug\ResiCheck.csproj.CoreCompileInputs.cache
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\obj\Debug\ResiCheck.exe
+C:\Users\r3mad\source\repos\ResiCheck\ResiCheck\obj\Debug\ResiCheck.pdb
